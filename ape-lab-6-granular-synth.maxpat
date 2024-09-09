@@ -221,8 +221,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "bang" ],
-					"patching_rect" : [ 229.0, 251.0, 90.0, 22.0 ],
-					"text" : "buffer~ wn sine"
+					"patching_rect" : [ 229.0, 251.0, 107.0, 22.0 ],
+					"text" : "buffer~ wn triangle"
 				}
 
 			}
